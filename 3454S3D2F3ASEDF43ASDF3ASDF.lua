@@ -839,7 +839,7 @@ function library:Create(Text)
         end
     end)
     local testingsection5 = testingtab:CreateSection('Credits')
-    testingsection5:CreateButton('Script: irfan#7830',function()
+    testingsection5:CreateButton('Script: 1temz#7830',function()
     end)
     testingsection5:CreateButton('Style & Library: Masterzz#0001',function()
     end)
